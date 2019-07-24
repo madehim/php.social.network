@@ -1,0 +1,48 @@
+
+
+#navigation {
+	overflow: hidden;
+	height: 35px;
+	background: #3b5999;
+}
+
+#navigation a {
+	color: #fff;
+	text-decoration: none;
+}
+
+#navigation ul {
+	margin: 7px 0 0 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#navigation ul li {
+	display: inline;
+}
+
+#navigation ul li a {
+	padding: 10px;
+}
+
+#navigation ul li a:hover {
+	background: #5785e0;
+}
+
+.alimgholder {
+		width: 160px;
+		height: 120px;
+		overflow: hidden;
+		float: left;
+		b
+
+
+
+
+
+	}
+.square {
+	width: 430px;
+	float: left;
+	padding: 15px;
+}
